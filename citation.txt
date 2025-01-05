@@ -1,0 +1,12 @@
+@article{REPO347,
+    author = "Zhang, Rongyu and Luo, Yulin and Liu, Jiaming and Yang, Huanrui and Dong, Zhen and Gudovskiy, Denis and Okuno, Tomoyuki and Nakata, Yohei and Keutzer, Kurt and Du, Yuan and Zhang, Shanghang",
+    doi = "10.1609/aaai.v38i15.29622",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    month = "Mar.",
+    number = "15",
+    pages = "16812-16820",
+    title = "{Efficient Deweahter Mixture-of-Experts with Uncertainty-Aware Feature-Wise Linear Modulation}",
+    url = "https://ojs.aaai.org/index.php/AAAI/article/view/29622",
+    volume = "38",
+    year = "2024"
+}
